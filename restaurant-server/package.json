@@ -1,0 +1,1 @@
+{"name":"ginsushi-restaurant-os","private":true,"type":"module","scripts":{"build":"python3 scripts/build.py","test":"node --test tests/server.test.mjs"}}
